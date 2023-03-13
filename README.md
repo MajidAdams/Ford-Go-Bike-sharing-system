@@ -1,6 +1,6 @@
 # Ford GoBike System Data Exploration
 
-## by (Abdulmojeed Adams)
+## by Abdulmojeed Adams
 
 
 ## Dataset
